@@ -23,7 +23,7 @@
                                     :background "#fcf7e8"
                                     :foreground "#442c09")))
  `(hl-line                        ((((type graphic))
-                                    :box (:line-width (1 . 2) :color "#edccb7" :style nil))
+                                    :box (:color "#edccb7" :style nil))
                                    (((type tty))
                                     :background "#ffffff")))
  `(cursor                         ((t (:background "black"))))
@@ -75,7 +75,7 @@
  '(web-mode-html-attr-name-face   ((t ())))
  '(web-mode-html-tag-face         ((t ())))
  `(line-number-current-line       ((((type graphic))
-                                    :box (:line-width (1 . 2) :color "#edccb7" :style nil)
+                                    :box (:color "#edccb7" :style nil)
                                     :bold t
                                     :foreground "#404040"
                                     :inherit default)
