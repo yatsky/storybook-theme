@@ -1,6 +1,17 @@
 ;;; -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2020-2021 DogLooksGood
+;; Author: DogLooksGood <notanemail@email.com>
+;; Maintainer: Yaoni <someone@example.com>
+;; Created: 03 May 2021
+;; Keywords: theme
+;; URL: https://github.com/yatsky/storybook-theme
+
+;; This file is not part of GNU Emacs.
+
+;; This file is free software…
+;; along with this file.  If not, see <https://www.gnu.org/licenses/>.
+
 
 (deftheme storybook "A simple medium contrast light theme.")
 
