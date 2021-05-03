@@ -1,4 +1,4 @@
-;;; -*- lexical-binding: t -*-
+;;; storybook-theme.el --- custom theme  -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2020-2021 DogLooksGood
 ;; Author: DogLooksGood <notanemail@email.com>
