@@ -75,7 +75,7 @@
  '(web-mode-html-attr-name-face   ((t ())))
  '(web-mode-html-tag-face         ((t ())))
  `(line-number-current-line       ((((type graphic))
-                                    :box (:line-width (-1 . -2) :color "#edccb7" :style nil)
+                                    :box (:line-width (1 . 2) :color "#edccb7" :style nil)
                                     :bold t
                                     :foreground "#404040"
                                     :inherit default)
