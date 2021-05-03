@@ -1,5 +1,7 @@
 ;;; -*- lexical-binding: t -*-
 
+;; Copyright (C) 2020-2021 DogLooksGood
+
 (deftheme storybook "A simple medium contrast light theme.")
 
 (custom-theme-set-faces
