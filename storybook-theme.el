@@ -23,7 +23,7 @@
                                     :background "#fcf7e8"
                                     :foreground "#442c09")))
  `(hl-line                        ((((type graphic))
-                                    :box (:line-width (-1 . -2) :color "#edccb7" :style nil))
+                                    :box (:line-width (1 . 2) :color "#edccb7" :style nil))
                                    (((type tty))
                                     :background "#ffffff")))
  `(cursor                         ((t (:background "black"))))
